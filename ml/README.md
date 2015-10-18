@@ -6,6 +6,19 @@
 * [BPR like in the paper of Rendle et al., 2009.](https://github.com/tburny/bayesian-personalized-ranking)
 * [Bayesian Personalized Ranking](https://github.com/gamboviol/bpr)
 * [Dr. Guibing Guo](http://www.luckymoon.me/)
+
+---
+
+### Factorization Machines
+* [fastFM: A Library for Factorization Machines](https://github.com/ibayer/fastFM)
+* [A Python implementation of LightFM, a hybrid recommendation algorithm.](https://github.com/lyst/lightfm)
+
+---
+
+### NLP
+* [Word Embeddings For Fashion](http://developers.lyst.com/data/2014/11/11/word-embeddings-for-fashion/)
+* [GloVe: Global Vectors for Word Representation](http://www-nlp.stanford.edu/projects/glove/)
+
 ---
 
 ### SLIDES
