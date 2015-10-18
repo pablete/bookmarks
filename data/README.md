@@ -11,3 +11,6 @@
 
 ---
 
+### KAFKA
+* [https://github.com/confluentinc/kafka-rest](https://github.com/confluentinc/kafka-rest)
+* [AvroConverter (JSON to AVRO)](https://github.com/confluentinc/kafka-rest/blob/a3ab2e24a8cc941f0d61a94b1875498d4bb89b0e/src/main/java/io/confluent/kafkarest/converters/AvroConverter.java)
