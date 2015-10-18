@@ -4,6 +4,7 @@
 * [Getting Started With Falcor](https://auth0.com/blog/2015/08/28/getting-started-with-falcor/)
 * [Github API with Falcor](https://github.com/kristianmandrup/github-falcor)
 * [Full Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+* [React Render Visualizer](https://github.com/redsunsoft/react-render-visualizer)
 
 ---
 
