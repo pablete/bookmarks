@@ -4,3 +4,9 @@
 
 ---
 
+### DATASTORE
+* [Introducing FiloDB. Distributed. Versioned. Columnar.](http://velvia.github.io/Introducing-FiloDB/)
+* [https://github.com/tuplejump/FiloDB](https://github.com/tuplejump/FiloDB)
+
+---
+
