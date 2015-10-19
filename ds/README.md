@@ -8,6 +8,7 @@
 * [HubSpot/PlanOut.js](https://github.com/HubSpot/PlanOut.js)
 * [Code for my book on Multi-Armed Bandit Algorithms](https://github.com/johnmyleswhite/BanditsBook)
 * [Code accompanying the book "Machine Learning for Hackers"](https://github.com/johnmyleswhite/ML_for_Hackers)
+
 ---
 
 ### Bayesian Methods
