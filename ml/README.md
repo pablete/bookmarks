@@ -12,6 +12,11 @@
 ### Factorization Machines
 * [fastFM: A Library for Factorization Machines](https://github.com/ibayer/fastFM)
 * [A Python implementation of LightFM, a hybrid recommendation algorithm.](https://github.com/lyst/lightfm)
+* [lightFM used in kaggle](https://github.com/tdeboissiere/Kaggle/blob/master/Ponpare/ponpare_lightfm.ipynb)
+* [spark-libFM](https://github.com/zhengruifeng/spark-libFM)
+* [spark-FM-parallelSGD](https://github.com/blebreton/spark-FM-parallelSGD)
+* [cloudml/zen](https://github.com/cloudml/zen)  Netflix example
+
 
 ---
 
