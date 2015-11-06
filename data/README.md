@@ -8,6 +8,7 @@
 * [Introducing FiloDB. Distributed. Versioned. Columnar.](http://velvia.github.io/Introducing-FiloDB/)
 * [https://github.com/tuplejump/FiloDB](https://github.com/tuplejump/FiloDB)
 * [ScyllaDB: world's fastest NoSQL column store database](http://www.scylladb.com/)
+* [An embeddable write-once key-value store linkedin/palDB](https://github.com/linkedin/PalDB)
 
 ---
 
