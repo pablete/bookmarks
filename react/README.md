@@ -9,3 +9,6 @@
 ---
 ### UI
 * [AutoResponsive React](http://react.rocks/example/autoresponsive-react)
+
+### UNIVERSAL
+* [isomorphic redux template](https://github.com/caljrimmer/isomorphic-redux-app)
