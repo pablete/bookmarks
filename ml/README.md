@@ -16,13 +16,20 @@
 * [spark-libFM](https://github.com/zhengruifeng/spark-libFM)
 * [spark-FM-parallelSGD](https://github.com/blebreton/spark-FM-parallelSGD)
 * [cloudml/zen](https://github.com/cloudml/zen)  Netflix example
+* [LIBFFM: A Library for Field-aware Factorization Machines](http://www.csie.ntu.edu.tw/~r01922136/libffm/)
+* [Kaggle Criteo Display Advertising Challenge](https://github.com/guestwalk/kaggle-2014-criteo)
 
+---
+
+### General
+* [TensorFlow](http://tensorflow.org/)
 
 ---
 
 ### NLP
 * [Word Embeddings For Fashion](http://developers.lyst.com/data/2014/11/11/word-embeddings-for-fashion/)
 * [GloVe: Global Vectors for Word Representation](http://www-nlp.stanford.edu/projects/glove/)
+* [Distributed Machine Learning Toolkit](http://www.dmtk.io/)
 
 ---
 
