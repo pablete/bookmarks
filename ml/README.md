@@ -22,7 +22,8 @@
 ---
 
 ### General
-* [TensorFlow](http://tensorflow.org/)
+* [TensorFlow by Google](http://tensorflow.org/)
+* [Veles by Samsung](https://velesnet.ml/)
 
 ---
 
