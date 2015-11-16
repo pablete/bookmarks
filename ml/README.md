@@ -21,6 +21,14 @@
 
 ---
 
+### Graphs
+* [GraphChi](https://github.com/GraphChi) 
+* [GraphChi toolkit CF](https://github.com/GraphChi/graphchi-cpp/tree/master/toolkits/collaborative_filtering)
+* [GraphChi toolkit CF how to](http://bickson.blogspot.com/2012/12/collaborative-filtering-with-graphchi.html)
+* [Personalized Page Rank](https://github.com/GraphChi/graphchi-java/wiki/Personalized-Pagerank-with-DrunkardMob)
+
+---
+
 ### General
 * [TensorFlow by Google](http://tensorflow.org/)
 * [Veles by Samsung](https://velesnet.ml/)
