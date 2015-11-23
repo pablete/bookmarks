@@ -52,3 +52,8 @@
 
 ---
 
+### VIDEOS
+* [Machine Learning Summer School 2013 Tübingen](https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFv6RXaPZzzlzo93Hl0v91E)
+* [Introduction to Statistical Learning](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
+ 
+
