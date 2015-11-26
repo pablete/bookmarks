@@ -3,3 +3,10 @@
 * [UW Interactive Data Lab GITHUB](https://github.com/uwdata)
 
 ---
+
+### Inspiration
+* [Analyzing 1.1 Billion NYC Taxi and Uber Trips](http://toddwschneider.com/posts/analyzing-1-1-billion-nyc-taxi-and-uber-trips-with-a-vengeance/)
+* [Artist Explorer](https://artistexplorer.spotify.com/)
+* [https://github.com/fsahin/artist-explorer](https://github.com/fsahin/artist-explorer)
+
+---
