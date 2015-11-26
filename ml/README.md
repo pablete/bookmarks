@@ -6,6 +6,7 @@
 * [BPR like in the paper of Rendle et al., 2009.](https://github.com/tburny/bayesian-personalized-ranking)
 * [Bayesian Personalized Ranking](https://github.com/gamboviol/bpr)
 * [Dr. Guibing Guo](http://www.luckymoon.me/)
+* [Logistic Matrix Factorization for Implicit Feedback Data](https://github.com/MrChrisJohnson/logistic-mf)
 
 ---
 
