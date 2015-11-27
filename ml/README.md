@@ -26,6 +26,11 @@
 
 ---
 
+### Tensors
+* [https://github.com/FurongHuang/SpectralLDA-TensorSpark](https://github.com/FurongHuang/SpectralLDA-TensorSpark) 
+
+---
+
 ### Graphs
 * [GraphChi](https://github.com/GraphChi) 
 * [GraphChi toolkit CF](https://github.com/GraphChi/graphchi-cpp/tree/master/toolkits/collaborative_filtering)
