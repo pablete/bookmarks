@@ -7,7 +7,9 @@
 * [Bayesian Personalized Ranking](https://github.com/gamboviol/bpr)
 * [Dr. Guibing Guo](http://www.luckymoon.me/)
 * [Logistic Matrix Factorization for Implicit Feedback Data](https://github.com/MrChrisJohnson/logistic-mf)
-
+* [Collaborative Topic Modeling paper](https://www.cs.princeton.edu/~chongw/papers/WangBlei2011.pdf)
+* [Collaborative Topic Modeling NYT article](http://open.blogs.nytimes.com/2015/08/11/building-the-next-new-york-times-recommendation-engine/)
+* [Collaborative Topic Modeling implementation](https://www.cs.princeton.edu/~blei/ctm-c/index.html)
 ---
 
 ### Factorization Machines
