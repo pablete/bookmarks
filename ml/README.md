@@ -23,6 +23,7 @@
 * [cloudml/zen](https://github.com/cloudml/zen)  Netflix example
 * [LIBFFM: A Library for Field-aware Factorization Machines](http://www.csie.ntu.edu.tw/~r01922136/libffm/)
 * [Kaggle Criteo Display Advertising Challenge](https://github.com/guestwalk/kaggle-2014-criteo)
+* [KDD Tutorial: Factorization Models for Recommender Systems](http://www.ismll.uni-hildesheim.de/aktuelles/kdd_en.html)
 
 ---
 
