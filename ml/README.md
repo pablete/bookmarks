@@ -26,6 +26,15 @@
 
 ---
 
+### Bayesian Personalized Rank
+* [Learning to rank with scikit-learn](http://fa.bianp.net/blog/2012/learning-to-rank-with-scikit-learn-the-pairwise-transform/)
+* [Librec's BPR](https://github.com/guoguibing/librec/blob/master/librec/src/main/java/librec/ranking/BPR.java)
+* [https://github.com/tburny/bayesian-personalized-ranking](https://github.com/tburny/bayesian-personalized-ranking)
+* [https://github.com/gamboviol/bpr](https://github.com/gamboviol/bpr)
+* [https://github.com/bbcrd/theano-bpr](https://github.com/bbcrd/theano-bpr)
+
+---
+
 ### Tensors
 * [https://github.com/FurongHuang/SpectralLDA-TensorSpark](https://github.com/FurongHuang/SpectralLDA-TensorSpark) 
 
