@@ -22,8 +22,14 @@
 * [spark-FM-parallelSGD](https://github.com/blebreton/spark-FM-parallelSGD)
 * [cloudml/zen](https://github.com/cloudml/zen)  Netflix example
 * [LIBFFM: A Library for Field-aware Factorization Machines](http://www.csie.ntu.edu.tw/~r01922136/libffm/)
+* [Field-aware Factorization Machines in java](https://github.com/chenhuang-learn/ffm)
 * [Kaggle Criteo Display Advertising Challenge](https://github.com/guestwalk/kaggle-2014-criteo)
 * [KDD Tutorial: Factorization Models for Recommender Systems](http://www.ismll.uni-hildesheim.de/aktuelles/kdd_en.html)
+* [Hashed Factorization Machine with Follow The Regularized Leader](https://github.com/comadan/FM_FTRL)
+* [Gaussian Process Factorization Machines](https://github.com/trungngv/gpfm)
+* [Distributed Factorization Machines](https://github.com/dmlc/difacto)
+* [Factorization Machines for CTR](https://github.com/UltimateBeaver/FM)
+* [Factorization Machines with BPR](https://github.com/liyandi/FM-BPR)
 
 ---
 
