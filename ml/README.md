@@ -30,6 +30,8 @@
 * [Distributed Factorization Machines](https://github.com/dmlc/difacto)
 * [Factorization Machines for CTR](https://github.com/UltimateBeaver/FM)
 * [Factorization Machines with BPR](https://github.com/liyandi/FM-BPR)
+* [poisson_factorization_machine.py](https://gist.github.com/vene/3197a2bae38f77799ea8)
+* [libFM + BPR extension](https://github.com/fabiopetroni/libfm_with_BPR)
 
 ---
 
