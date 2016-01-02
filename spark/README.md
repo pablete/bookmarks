@@ -4,3 +4,8 @@
 ---
 ### MLlib
 * [Locality Sensitive Hashing for Apache Spark](https://github.com/mrsqueeze/spark-hash)
+
+---
+### REACTIVE SPARK
+* [https://github.com/mosche/reactive-spark](https://github.com/mosche/reactive-spark)
+
