@@ -10,5 +10,15 @@
 ### UI
 * [AutoResponsive React](http://react.rocks/example/autoresponsive-react)
 
+---
 ### UNIVERSAL
 * [isomorphic redux template](https://github.com/caljrimmer/isomorphic-redux-app)
+
+---
+### BOILERPLATE
+* [Minimal opinionated convention over configuration SAGUI ](https://github.com/pirelenito/sagui)
+
+---
+### FULL PROJECTS
+* [Fermi and Monte Carlo Estimates](https://github.com/getguesstimate/guesstimate-app)
+
