@@ -60,6 +60,7 @@
 ### General
 * [TensorFlow by Google](http://tensorflow.org/)
 * [Veles by Samsung](https://velesnet.ml/)
+* [H2O University](http://university.h2o.ai/data-science-101/lesson1.html)
 
 ---
 
