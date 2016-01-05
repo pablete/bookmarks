@@ -44,6 +44,14 @@
 
 ---
 
+### LambdaMART
+* [LambdaMART Microsoft](http://research.microsoft.com/pubs/132652/MSR-TR-2010-82.pdf)
+* [Visualizing LambdaMART](https://wellecks.wordpress.com/tag/lambdamart/) 
+* [Spark implementation](https://github.com/diaodou/lambda-mart)
+* [LambdaMART in python](https://github.com/discobot/LambdaMart)
+
+---
+
 ### Tensors
 * [https://github.com/FurongHuang/SpectralLDA-TensorSpark](https://github.com/FurongHuang/SpectralLDA-TensorSpark) 
 
