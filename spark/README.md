@@ -9,3 +9,6 @@
 ### REACTIVE SPARK
 * [https://github.com/mosche/reactive-spark](https://github.com/mosche/reactive-spark)
 
+---
+### PROJECTS
+* [SnappyData: OLTP + OLAP Database built on Apache Spark](https://github.com/SnappyDataInc/snappydata)
