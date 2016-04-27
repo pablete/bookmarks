@@ -10,3 +10,5 @@
 * [https://github.com/fsahin/artist-explorer](https://github.com/fsahin/artist-explorer)
 
 ---
+### Three.js / D3.js
+* [3D-visning av statistikk](https://github.com/GeoForum/veiledning09)
