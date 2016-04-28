@@ -11,9 +11,12 @@
 * [Collaborative Topic Modeling NYT article](http://open.blogs.nytimes.com/2015/08/11/building-the-next-new-york-times-recommendation-engine/)
 * [Collaborative Topic Modeling implementation](https://www.cs.princeton.edu/~blei/ctm-c/index.html)
 
+---
+
 ### Deep Learning
 * [Session-based Recommendations With Recurrent Neural Networks](https://github.com/hidasib/GRU4Rec)
 * [DeepWalk - Deep Learning for Graphs](https://github.com/phanein/deepwalk)
+
 ---
 
 ### Factorization Machines
@@ -53,6 +56,7 @@
 * [Spark implementation](https://github.com/diaodou/lambda-mart)
 * [LambdaMART in python](https://github.com/discobot/LambdaMart)
 * [Learning To Rank Turorial](http://research.microsoft.com/en-us/people/hangli/acml-tutorial.pdf)
+* [Visualizing LambdaMART](https://wellecks.wordpress.com/tag/lambdamart/)
 ---
 
 ### Tensors
