@@ -8,4 +8,6 @@
 * [https://github.com/pkinsky/akka-streams-example/blob/master/src/main/scala/WordCount.scala](https://github.com/pkinsky/akka-streams-example/blob/master/src/main/scala/WordCount.scala)
 * [Reactive Kafka Prototype](https://github.com/tdrozdowski/reactive-kafka-prototype/blob/master/src/main/scala/lightning/Lightning.scala)
 
-
+---
+### DATA STRUCTURES
+* [https://mauricio.github.io/2015/01/06/building-a-prefix-tree-in-scala.html](Building a prefix tree (or trie) in Scala)
