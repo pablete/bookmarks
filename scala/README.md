@@ -14,6 +14,7 @@
 
 ### FRAMEWORKS
 * [Lightweight Scala Dependency Injection Library](http://scaldi.org/)
+* [Dependency Injection in Scala using MacWire](http://di-in-scala.github.io/)
 
 ---
 
