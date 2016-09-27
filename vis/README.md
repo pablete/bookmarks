@@ -12,3 +12,4 @@
 ---
 ### Three.js / D3.js
 * [3D-visning av statistikk](https://github.com/GeoForum/veiledning09)
+* [3D Graph Stellar Webpack](https://github.com/alexkuz/stellar-webpack)
