@@ -13,9 +13,8 @@
 
 ---
 
-### Deep Learning
-* [Session-based Recommendations With Recurrent Neural Networks](https://github.com/hidasib/GRU4Rec)
-* [DeepWalk - Deep Learning for Graphs](https://github.com/phanein/deepwalk)
+### MISC
+* [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html#batchgradientdescent)
 
 ---
 
