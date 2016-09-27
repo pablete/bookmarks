@@ -12,6 +12,8 @@ doc=GetTRDoc.pdf&AD=ADA166235)
 * [TensorFlow implementation of an arbitrary order Factorization Machine](https://github.com/geffy/tffm)
 * [Infrastructure for Deep Learning](https://openai.com/blog/infrastructure-for-deep-learning/)
 * [https://github.com/openai/kubernetes-ec2-autoscaler](https://github.com/openai/kubernetes-ec2-autoscaler)
+* [Visualizing TensorFlow Graphs with TensorBoard](http://blog.altoros.com/visualizing-tensorflow-graphs-with-tensorboard.html)
+* [Using TensorBoard to Visualize Image Classification Retraining in TensorFlow](http://maxmelnick.com/2016/07/04/visualizing-tensorflow-retrain.html)
 
 ---
 
