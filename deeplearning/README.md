@@ -12,6 +12,11 @@
 * [DeepWalk - Deep Learning for Graphs](https://github.com/phanein/deepwalk)
 * [AutoRec: Neural models for Collaborative Filtering](https://github.com/mesuvash/NNRec)
 * [AutoRec: Autoencoders Meet Collaborative Filtering](http://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)
+* [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/)
+* [Neural Networks and Deep Learning BOOK](http://neuralnetworksanddeeplearning.com/)
 
-### BLOGS
+---
+
+### BLOGS/PEOPLE
 * [Christopher Olah](http://colah.github.io/)
+* [Laurent Charlin](http://www.cs.toronto.edu/~lcharlin/)
