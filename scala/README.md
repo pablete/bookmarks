@@ -18,5 +18,6 @@
 ---
 
 ### GRAPHICAL MODELS
+* [A functional Gibbs sampler in Scala](https://darrenjw.wordpress.com/2013/10/04/a-functional-gibbs-sampler-in-scala/)
 * [AISH: Graphical Models for Scala](https://github.com/aishfenton/gavel)
 * [Factorie](http://factorie.cs.umass.edu/index.html)
