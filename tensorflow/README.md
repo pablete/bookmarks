@@ -19,3 +19,8 @@ doc=GetTRDoc.pdf&AD=ADA166235)
 
 ### KERAS
 * [An example of doing MovieLens recommendations using triplet loss in Keras (maciejkula/triplet_recommendations_keras)](https://github.com/maciejkula/triplet_recommendations_keras)
+
+---
+
+### DISTRIBUTED
+* [https://github.com/ct-clmsn/distributed-tensorflow-orchestration](https://github.com/ct-clmsn/distributed-tensorflow-orchestration)
