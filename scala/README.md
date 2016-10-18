@@ -12,6 +12,11 @@
 
 ---
 
+### MESOS
+* [http://blog.madhukaraphatak.com/mesos-helloworld-scala/](http://blog.madhukaraphatak.com/mesos-helloworld-scala/)
+
+---
+
 ### FRAMEWORKS
 * [Lightweight Scala Dependency Injection Library](http://scaldi.org/)
 * [Dependency Injection in Scala using MacWire](http://di-in-scala.github.io/)
