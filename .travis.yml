@@ -1,0 +1,18 @@
+language: ruby
+rvm:
+    - 2.2
+before_script:
+    - gem install awesome_bot
+script:
+    - awesome_bot ./README.md               --allow-redirect
+    - awesome_bot ./data/README.md          --allow-redirect
+    - awesome_bot ./deeplearning/README.md  --allow-redirect
+    - awesome_bot ./ds/README.md            --allow-redirect
+    - awesome_bot ./ml/README.md            --allow-redirect
+    - awesome_bot ./papers/README.md        --allow-redirect
+    - awesome_bot ./react/README.md         --allow-redirect
+    - awesome_bot ./scala/README.md         --allow-redirect
+    - awesome_bot ./spark/README.md         --allow-redirect
+    - awesome_bot ./tensorflow/README.md    --allow-redirect
+    - awesome_bot ./vis/README.md           --allow-redirect
+
