@@ -9,6 +9,7 @@
 * [https://github.com/pkinsky/akka-streams-example/blob/master/src/main/scala/WordCount.scala](https://github.com/pkinsky/akka-streams-example/blob/master/src/main/scala/WordCount.scala)
 * [Reactive Kafka Prototype](https://github.com/tdrozdowski/reactive-kafka-prototype/blob/master/src/main/scala/lightning/Lightning.scala)
 * [Akka Streams Kafka 0.11](http://blog.akka.io/integrations/2016/09/10/akka-stream-kafka)
+* [Akka in Action](https://github.com/RayRoestenburg/akka-in-action)
 
 ---
 
