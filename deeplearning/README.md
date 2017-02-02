@@ -17,6 +17,19 @@
 
 ---
 
+### SELF DRIVING CAR
+* [Self Driving RC Car](http://blog.davidsingleton.org/nnrccar/)
+* [Deep Learning for self driving cars MIT](http://selfdrivingcars.mit.edu/)
+
+---
+
+### TENSORFLOW
+* [Learn Tensorflow without a phd](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
+
+### GAN
+* [An introduction to GAN tensorflow] (http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/)
+* [Ian Goodfellow GAN Nips 2016 tutorial](https://arxiv.org/pdf/1701.00160v3.pdf)
+
 ### BLOGS/PEOPLE
 * [Christopher Olah](http://colah.github.io/)
 * [Laurent Charlin](http://www.cs.toronto.edu/~lcharlin/)
