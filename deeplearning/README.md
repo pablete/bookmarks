@@ -25,6 +25,7 @@
 
 ### TENSORFLOW
 * [Learn Tensorflow without a phd](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
+* [CS 20SI: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/index.html)
 
 ### GAN
 * [An introduction to GAN tensorflow] (http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/)
