@@ -7,7 +7,7 @@
 * [Bayesian Personalized Ranking](https://github.com/gamboviol/bpr)
 * [Dr. Guibing Guo](http://www.luckymoon.me/)
 * [Logistic Matrix Factorization for Implicit Feedback Data](https://github.com/MrChrisJohnson/logistic-mf)
-* [Collaborative Topic Modeling paper](https://www.cs.princeton.edu/~chongw/papers/WangBlei2011.pdf)
+* [Collaborative Topic Modeling paper](https://www.cs.princeton.edu/~blei/papers/WangBlei2011.pdf)
 * [Collaborative Topic Modeling NYT article](http://open.blogs.nytimes.com/2015/08/11/building-the-next-new-york-times-recommendation-engine/)
 * [Collaborative Topic Modeling implementation](https://www.cs.princeton.edu/~blei/ctm-c/index.html)
 
@@ -51,7 +51,7 @@
 
 ### LambdaMART
 * [LambdaMART Microsoft](http://research.microsoft.com/pubs/132652/MSR-TR-2010-82.pdf)
-* [Visualizing LambdaMART](https://wellecks.wordpress.com/tag/lambdamart/) 
+* [Visualizing LambdaMART](https://wellecks.wordpress.com/tag/lambdamart/)
 * [Spark implementation](https://github.com/diaodou/lambda-mart)
 * [LambdaMART in python](https://github.com/discobot/LambdaMart)
 * [Learning To Rank Turorial](http://research.microsoft.com/en-us/people/hangli/acml-tutorial.pdf)
@@ -60,12 +60,12 @@
 ---
 
 ### Tensors
-* [https://github.com/FurongHuang/SpectralLDA-TensorSpark](https://github.com/FurongHuang/SpectralLDA-TensorSpark) 
+* [https://github.com/FurongHuang/SpectralLDA-TensorSpark](https://github.com/FurongHuang/SpectralLDA-TensorSpark)
 
 ---
 
 ### Graphs
-* [GraphChi](https://github.com/GraphChi) 
+* [GraphChi](https://github.com/GraphChi)
 * [GraphChi toolkit CF](https://github.com/GraphChi/graphchi-cpp/tree/master/toolkits/collaborative_filtering)
 * [GraphChi toolkit CF how to](http://bickson.blogspot.com/2012/12/collaborative-filtering-with-graphchi.html)
 * [Personalized Page Rank](https://github.com/GraphChi/graphchi-java/wiki/Personalized-Pagerank-with-DrunkardMob)
@@ -99,5 +99,5 @@
 ### VIDEOS
 * [Machine Learning Summer School 2013 Tübingen](https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFv6RXaPZzzlzo93Hl0v91E)
 * [Introduction to Statistical Learning](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
-* [ISL python notebooks](https://github.com/JWarmenhoven/ISLR-python) 
+* [ISL python notebooks](https://github.com/JWarmenhoven/ISLR-python)
 

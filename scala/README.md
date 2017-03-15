@@ -4,7 +4,7 @@
 ---
 
 ### AKKA STREAMS
-* [Intel GearPump](http://www.gearpump.io/overview.html)
+* [Intel GearPump](https://gearpump.apache.org/overview.html)
 * [Quick Start Guide: Reactive Tweets](http://doc.akka.io/docs/akka-stream-and-http-experimental/2.0/scala/stream-quickstart.html)
 * [https://github.com/pkinsky/akka-streams-example/blob/master/src/main/scala/WordCount.scala](https://github.com/pkinsky/akka-streams-example/blob/master/src/main/scala/WordCount.scala)
 * [Reactive Kafka Prototype](https://github.com/tdrozdowski/reactive-kafka-prototype/blob/master/src/main/scala/lightning/Lightning.scala)

@@ -3,7 +3,7 @@
 * [Glint: High performance scala parameter server](https://github.com/rjagerman/glint)
 * [Flint: A Time Series Library for Apache Spark](https://github.com/twosigma/flint)
 * [Groupon Spark Performance Debugger](https://github.com/groupon/sparklint)
-* [https://github.com/jwills/saferdd](https://github.com/jwills/saferdd)
+* [SafeRDD](https://github.com/jwills/saferdd)
 
 ---
 
@@ -18,7 +18,7 @@
 ---
 
 ### REACTIVE SPARK
-* [https://github.com/mosche/reactive-spark](https://github.com/mosche/reactive-spark)
+* [Reactive Spark](https://github.com/mosche/reactive-spark)
 
 ---
 
