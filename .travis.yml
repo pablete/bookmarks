@@ -4,15 +4,16 @@ rvm:
 before_script:
     - gem install awesome_bot
 script:
-    - awesome_bot ./README.md               --allow-redirect
-    - awesome_bot ./data/README.md          --allow-redirect
-    - awesome_bot ./deeplearning/README.md  --allow-redirect
-    - awesome_bot ./ds/README.md            --allow-redirect
-    - awesome_bot ./ml/README.md            --allow-redirect
-    - awesome_bot ./papers/README.md        --allow-redirect
-    - awesome_bot ./react/README.md         --allow-redirect
-    - awesome_bot ./scala/README.md         --allow-redirect
-    - awesome_bot ./spark/README.md         --allow-redirect
-    - awesome_bot ./tensorflow/README.md    --allow-redirect
-    - awesome_bot ./vis/README.md           --allow-redirect
+    - awesome_bot ./README.md               --allow-redirect --allow-dupe
+    - awesome_bot ./2017.md                 --allow-redirect --allow-dupe
+    - awesome_bot ./data/README.md          --allow-redirect --allow-dupe
+    - awesome_bot ./deeplearning/README.md  --allow-redirect --allow-dupe
+    - awesome_bot ./ds/README.md            --allow-redirect --allow-dupe
+    - awesome_bot ./ml/README.md            --allow-redirect --allow-dupe
+    - awesome_bot ./papers/README.md        --allow-redirect --allow-dupe
+    - awesome_bot ./react/README.md         --allow-redirect --allow-dupe
+    - awesome_bot ./scala/README.md         --allow-redirect --allow-dupe
+    - awesome_bot ./spark/README.md         --allow-redirect --allow-dupe
+    - awesome_bot ./tensorflow/README.md    --allow-redirect --allow-dupe
+    - awesome_bot ./vis/README.md           --allow-redirect --allow-dupe
 
